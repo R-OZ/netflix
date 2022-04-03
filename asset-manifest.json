@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/netflix/static/css/main.e266554c.css",
+    "main.js": "/netflix/static/js/main.aaa63b60.js",
+    "static/js/787.cb98be81.chunk.js": "/netflix/static/js/787.cb98be81.chunk.js",
+    "static/media/spiderman.jpg": "/netflix/static/media/spiderman.77abfb2e7d308a84e497.jpg",
+    "static/media/kids.png": "/netflix/static/media/kids.856991f2dadfe6afcb6b.png",
+    "static/media/adults.png": "/netflix/static/media/adults.b1cbd71805e81017f3a1.png",
+    "static/media/teens.png": "/netflix/static/media/teens.0048a2b9754f01c0a0a9.png",
+    "static/media/myLogo.png": "/netflix/static/media/myLogo.bb94a055f5ce09f55941.png",
+    "index.html": "/netflix/index.html",
+    "static/media/search1.svg": "/netflix/static/media/search1.6f26d5c6cad46b4841c8155fd6efcb12.svg",
+    "main.e266554c.css.map": "/netflix/static/css/main.e266554c.css.map",
+    "main.aaa63b60.js.map": "/netflix/static/js/main.aaa63b60.js.map",
+    "787.cb98be81.chunk.js.map": "/netflix/static/js/787.cb98be81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e266554c.css",
+    "static/js/main.aaa63b60.js"
+  ]
+}
